@@ -23,7 +23,7 @@ color:
     - '#edb12d'
     - '#40989b'
   brandStrength: 0.625
-  lightness: 0.75
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  lightness: 0.875
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
