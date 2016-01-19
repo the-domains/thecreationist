@@ -23,6 +23,6 @@ color:
     - '#f8cdd6'
   brandStrength: 0.625
   lightness: 0.75
-  saturation: 0.125
+  saturation: 0.25
   rhythmicContrast: 0
 purpose: []
