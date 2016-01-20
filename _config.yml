@@ -1,6 +1,6 @@
 name: thecreationist
 favicon: null
-layout_spectrum: 0.17969
+layout_spectrum: 0.74579
 typography_spectrum: 0.78293
 title: The Creationist
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#b20202'
-    - '#b53c29'
-    - '#29253c'
-    - '#edb12d'
-    - '#40989b'
+    - '#fafbff'
+    - '#030500'
+    - '#f90401'
+    - '#f16600'
+    - '#1177d1'
   brandStrength: 0.6875
   lightness: 0.8125
   saturation: 1
