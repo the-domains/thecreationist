@@ -1,29 +1,18 @@
-name: thecreationist
-favicon: null
-layout_spectrum: 0.09555
-typography_spectrum: 0.78293
-title: '∆  The  Creationist '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#191970'
-    - '#002395'
-    - '#1560bd'
-    - '#9683ec'
-    - '#324ab2'
+    - '#C8C8C8'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
   brandStrength: 0
   lightness: 0.8125
-  saturation: 0.995495
   rhythmicContrast: 0.5
+  saturation: 0.995495
+cta: {}
+layout_spectrum: 0.09555
+name: thecreationist
+opengraph: {}
 purpose: []
+typography_spectrum: 0.78293
