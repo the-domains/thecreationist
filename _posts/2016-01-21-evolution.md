@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-21T08:28:04.388Z'
-dateModified: '2016-01-21T08:27:52.945Z'
+description: Years of Work
+datePublished: '2016-01-21T08:30:43.607Z'
+dateModified: '2016-01-21T08:30:40.084Z'
 title: Evolution
 author: []
+sourcePath: _posts/2016-01-21-evolution.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-evolution.md
-published: true
 url: evolution/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Evolution
