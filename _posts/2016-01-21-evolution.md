@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Years of Work
-datePublished: '2016-01-21T08:30:43.607Z'
-dateModified: '2016-01-21T08:30:40.084Z'
+datePublished: '2016-01-21T08:35:18.596Z'
+dateModified: '2016-01-21T08:35:10.591Z'
 title: Evolution
 author: []
 sourcePath: _posts/2016-01-21-evolution.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: evolution/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Evolution
