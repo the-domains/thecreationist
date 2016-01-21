@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Creationist]]></title>
-        <description><![CDATA[The Creationist]]></description>
+        <title><![CDATA[thecreationist]]></title>
+        <description><![CDATA[thecreationist]]></description>
         <link>https://thegrid.ai/thecreationist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 01:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 03:42:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thecreationist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/thecreationist/watts/index.html</link>
             <guid isPermaLink="false">a87a2ad9-af6a-4a00-b96a-71a70d12e244</guid>
             <pubDate>Thu, 21 Jan 2016 01:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Work]]></title>
-            <description><![CDATA[<article><h1>New Work</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5cfbf66fca5fd27348902609acdc6f98ae5c692.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thecreationist/new-work/index.html</link>
-            <guid isPermaLink="false">56610f9d-cb69-4cb0-9e83-555e236dd628</guid>
-            <pubDate>Thu, 21 Jan 2016 01:40:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
