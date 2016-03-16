@@ -1,4 +1,4 @@
-name: thecreationist
+name: Chris Watts
 favicon: null
 layout_spectrum: 0.94171
 typography_spectrum: 0.78293
@@ -24,6 +24,6 @@ color:
     - '#950d19'
   brandStrength: 0.1875
   lightness: 1
-  saturation: 0.625
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
