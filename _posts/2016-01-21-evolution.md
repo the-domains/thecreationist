@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T17:15:59.404Z'
-dateModified: '2016-03-16T17:13:37.138Z'
+datePublished: '2016-03-16T17:52:00.360Z'
+dateModified: '2016-03-16T17:51:56.412Z'
 title: Evolution
 author: []
 sourcePath: _posts/2016-01-21-evolution.md
@@ -27,18 +27,8 @@ _type: WebPage
 
 [][0]
 
-# [2015][1]
+# 2015    2014     2013     2012
 
-# [2014][2]
-
-# [2013][3]
-
-# [2012][4][2011][5][2010][6]
+# 2011    2010
 
 [0]: null
-[1]: thecreationist.us/evolution/2015
-[2]: http://thecreationist.us/evolution/thecreationist.us/2014/
-[3]: thecreationist.us/2013/
-[4]: thecreationist.us/2012/
-[5]: thecreationist.us/2011/
-[6]: thecreationist.us/2010/
