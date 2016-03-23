@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Email: thecreationist.llc@gmail.com'
-datePublished: '2016-03-23T07:08:22.492Z'
-dateModified: '2016-03-23T07:08:01.556Z'
+description: contact
+datePublished: '2016-03-23T07:12:16.535Z'
+dateModified: '2016-03-23T07:11:55.475Z'
 author:
   - avatar: {}
 related: []
@@ -49,14 +49,14 @@ app_links:
     namespace: google
     type: ios
 title: Stay in Touch
+sourcePath: _posts/2016-03-23-stay-in-touch.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'http://youtube.com'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-23-stay-in-touch.md
-published: true
 url: stay-in-touch/index.html
 _type: VideoObject
 _context: 'http://schema.org'
