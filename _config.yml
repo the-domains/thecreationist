@@ -1,26 +1,15 @@
-name: Chris Watts
-favicon: null
-layout_spectrum: 0.94171
-typography_spectrum: 0.78293
-title: ' The  Creationist   ∆'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#fefefe'
+    - '#FFFFFF'
+    - '#FEFEFE'
   brandStrength: 0.1875
   lightness: 1
-  saturation: 0.8125
   rhythmicContrast: 0.5
+  saturation: 0.8125
+cta: {}
+layout_spectrum: 0.94171
+name: Chris Watts
+opengraph: {}
 purpose: []
+typography_spectrum: 0.615991
