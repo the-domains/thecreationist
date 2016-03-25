@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Why
-datePublished: '2016-03-25T07:38:59.214Z'
-dateModified: '2016-03-25T07:38:51.457Z'
+datePublished: '2016-03-25T07:41:14.900Z'
+dateModified: '2016-03-25T07:40:57.693Z'
 title: Philosophy
 author: []
+sourcePath: _posts/2016-03-25-philosophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-philosophy.md
-published: true
 url: philosophy/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Philosophy
@@ -27,6 +27,8 @@ _type: Article
 > _We're all created to create._
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/278de72f-9721-4a7b-8365-0c73a4da275f.jpg)
+
+****
 
 ****
 
