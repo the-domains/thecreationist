@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Why
-datePublished: '2016-03-25T07:53:45.449Z'
-dateModified: '2016-03-25T07:41:24.092Z'
+datePublished: '2016-03-25T07:56:03.996Z'
+dateModified: '2016-03-25T07:55:56.075Z'
 title: Philosophy
 author: []
 sourcePath: _posts/2016-03-25-philosophy.md
