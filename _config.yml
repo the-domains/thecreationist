@@ -1,25 +1,15 @@
-name: Chris Watts
-favicon: null
-layout_spectrum: 0.849099
-typography_spectrum: 0.734234
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FFFFFF'
     - '#FEFEFE'
   brandStrength: 0.181306
   lightness: 1
-  saturation: 0.709459
   rhythmicContrast: 0.263513
+  saturation: 0.709459
+cta: {}
+layout_spectrum: 0.763513
+name: Chris Watts ∆
+opengraph: {}
 purpose: []
+typography_spectrum: 0.734234
