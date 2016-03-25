@@ -3,9 +3,9 @@ color:
   brandColors:
     - '#FFFFFF'
     - '#FEFEFE'
-  brandStrength: 0.14527
+  brandStrength: 0.774774
   lightness: 0.84009
-  rhythmicContrast: 0.252252
+  rhythmicContrast: 0.252251
   saturation: 0.701576
 cta: {}
 layout_spectrum: 0.754504
