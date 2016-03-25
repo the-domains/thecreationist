@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Chris Watts ∆]]></title>
         <description><![CDATA[Chris Watts ∆]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thecreationist.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 05:15:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 07:38:59 GMT</lastBuildDate>
+        <atom:link href="http://thecreationist.us/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Philosophy]]></title>
+            <description><![CDATA[<article><h1>Philosophy</h1><p>Why</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c76ca275979956c91c6be45b95129edcf7ef7114.jpg"></article>]]></description>
+            <link>http://thecreationist.us/philosophy/index.html</link>
+            <guid isPermaLink="false">0e9082bc-30f6-44f2-949b-8d307f00f045</guid>
+            <pubDate>Fri, 25 Mar 2016 07:38:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9624b7-ae06-4171-a370-f5de349154b5.jpg"></article>]]></description>
