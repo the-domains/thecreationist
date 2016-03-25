@@ -3,12 +3,12 @@ color:
   brandColors:
     - '#FFFFFF'
     - '#FEFEFE'
-  brandStrength: 0.086711
-  lightness: 0.84009
+  brandStrength: 0.237612
+  lightness: 0.823198
   rhythmicContrast: 0.252251
-  saturation: 0.701576
+  saturation: 0.657657
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.752252
 name: Chris Watts
 opengraph: {}
 purpose: []
