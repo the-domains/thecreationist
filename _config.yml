@@ -3,10 +3,10 @@ color:
   brandColors:
     - '#FFFFFF'
     - '#FEFEFE'
-  brandStrength: 0.320945
-  lightness: 0.697072
-  rhythmicContrast: 0.174549
-  saturation: 0.822072
+  brandStrength: 0.181306
+  lightness: 0.896396
+  rhythmicContrast: 0
+  saturation: 0.802927
 cta: {}
 layout_spectrum: 0.698198
 name: Chris Watts
