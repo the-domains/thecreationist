@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Screen test
-datePublished: '2016-03-27T21:07:59.012Z'
-dateModified: '2016-03-27T21:07:50.215Z'
+datePublished: '2016-03-27T21:09:26.245Z'
+dateModified: '2016-03-27T21:09:13.635Z'
 author:
   - avatar: {}
 related: []
@@ -48,7 +48,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: ' '
+title: Stay in Touch
 sourcePath: _posts/2016-03-23-stay-in-touch.md
 published: true
 authors: []
@@ -67,8 +67,6 @@ _context: 'http://schema.org'
 ## [Instagram][0]
 
 ## [Facebook][1]
-
-# 
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FuJjC08DYkBQ&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuJjC08DYkBQ%26list%3DPL8CBlCahuS1_RjqJLw3opqk8iCYgCa7XV%26index%3D3&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FuJjC08DYkBQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
