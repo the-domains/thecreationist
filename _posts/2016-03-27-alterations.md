@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: alterations of clothes
-datePublished: '2016-03-27T22:26:43.357Z'
-dateModified: '2016-03-27T22:26:22.543Z'
+description: ''
+datePublished: '2016-05-04T07:54:51.205Z'
+dateModified: '2016-05-04T07:54:50.713Z'
 title: Alterations
 author: []
+sourcePath: _posts/2016-03-27-alterations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-alterations.md
-published: true
+starred: false
 url: alterations/index.html
 _type: WebPage
 
