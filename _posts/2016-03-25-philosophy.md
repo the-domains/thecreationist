@@ -3,12 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Why
-datePublished: '2016-03-25T07:56:03.996Z'
-dateModified: '2016-03-25T07:55:56.075Z'
-title: Philosophy
+description: ''
+datePublished: '2016-05-04T07:54:36.065Z'
+dateModified: '2016-05-04T07:54:33.123Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-25-philosophy.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: philosophy/index.html
 _type: WebPage
 
@@ -32,7 +32,7 @@ _type: WebPage
 
 ****
 
-**The Creationis**t isn't about where we **(humans)** came from, or who **created** us; on the **contrary**, this**idea** moves **beyond** that.
+**The Creationis**t isn't about where we as **(humans)** came from, or who **created** us; on the **contrary**, this**idea** moves **beyond** that.
 
 I **believe**, we're all created to create, and this is why I'm here; to spread this message. A **message** that inspires people to **believe** in their ability to **create**, a **vision** that challenges our **perception** about who we are as **individuals**. 
 
