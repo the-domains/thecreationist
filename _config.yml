@@ -1,9 +1,37 @@
 name: Chris Watts ∆
-layout_spectrum: 0.36537707271054387
+favicon: null
+layout_spectrum: 0.9994
 typography_spectrum: 0.734234
-cta: {}
-analytics: {}
+content_rating:
+  adult: false
+author:
+  name: Chris Watts
+  url: thecreationist.us
+  email: thecreationist.llc@gmail.com
+navigation:
+  - name: Evolution
+    id: d902fab4-479c-4d3b-a2ab-582236ed81b5
+    type: content
+  - name: Philosophy
+    id: 0e9082bc-30f6-44f2-949b-8d307f00f045
+    type: content
+  - name: Alterations
+    id: f8129e84-2129-4d0a-bb43-9d1cf177fad4
+    type: content
+  - name: Stay In Touch
+    id: 17c8c3be-b131-4980-801a-f6e67738e9d3
+    type: content
+title: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
+  image: null
   type: ''
   appId: ''
 color:
@@ -18,23 +46,3 @@ color:
   saturation: 0.769144
   rhythmicContrast: 0.263513
 purpose: []
-title: ''
-author:
-  name: ''
-  url: ''
-  email: ''
-content_rating:
-  adult: false
-navigation:
-  - name: Evolution
-    id: d902fab4-479c-4d3b-a2ab-582236ed81b5
-    type: content
-  - name: Philosophy
-    id: 0e9082bc-30f6-44f2-949b-8d307f00f045
-    type: content
-  - name: Alterations
-    id: f8129e84-2129-4d0a-bb43-9d1cf177fad4
-    type: content
-  - name: Stay In Touch
-    id: 17c8c3be-b131-4980-801a-f6e67738e9d3
-    type: content
