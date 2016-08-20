@@ -30,5 +30,8 @@ navigation:
   - name: Philosophy
     id: 0e9082bc-30f6-44f2-949b-8d307f00f045
     type: content
+  - name: Alterations
+    id: f8129e84-2129-4d0a-bb43-9d1cf177fad4
+    type: content
 title: ''
 purpose: []
