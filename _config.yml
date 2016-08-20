@@ -1,7 +1,20 @@
+layout_spectrum: 0.38089562533423305
+typography_spectrum: 0.734234
+color:
+  brandColors:
+    - '#C8C8C8'
+    - '#000000'
+    - '#989898'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.181306
+  lightness: 1
+  saturation: 0.769144
+  rhythmicContrast: 0.263513
+coverPrefs:
+  filter: false
 name: Chris Watts ∆
 favicon: null
-layout_spectrum: 0.9994
-typography_spectrum: 0.734234
 content_rating:
   adult: false
 author:
@@ -34,15 +47,4 @@ opengraph:
   image: null
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#C8C8C8'
-    - '#000000'
-    - '#989898'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.181306
-  lightness: 1
-  saturation: 0.769144
-  rhythmicContrast: 0.263513
 purpose: []
