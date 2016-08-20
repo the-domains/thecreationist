@@ -1,19 +1,11 @@
 name: Chris Watts ∆
-favicon: null
 layout_spectrum: 0.375
 typography_spectrum: 0.734234
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#C8C8C8'
@@ -26,3 +18,10 @@ color:
   saturation: 0.769144
   rhythmicContrast: 0.263513
 purpose: []
+title: We're all created to create
+author:
+  name: Chris Watts
+  url: thecreationist.us
+  email: thecreationist.llc@gmail.com
+content_rating:
+  adult: false
