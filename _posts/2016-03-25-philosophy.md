@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-20T06:26:54.659Z'
-dateModified: '2016-08-20T06:26:53.366Z'
+datePublished: '2016-08-20T06:28:48.176Z'
+dateModified: '2016-08-20T06:28:47.256Z'
 publisher: {}
 author: []
 inFeed: false
@@ -22,7 +22,7 @@ _type: WebPage
 
 # Philosophy
 
-**The Creationis**t isn't about where we as **(humans)** came from, or who **created** us; on the **contrary**, this**idea** moves **beyond** that.
+**The Creationis**t isn't about where we **(humans)** came from, or who **created** us; on the **contrary**, this**idea** moves **beyond** that.
 
 I **believe**, we're all created to create, and this is why I'm here; to spread this message. A **message** that inspires people to **believe** in their ability to **create**, a **vision** that challenges our **perception** about who we are as **individuals**.
 
