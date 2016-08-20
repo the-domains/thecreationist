@@ -1,11 +1,6 @@
-name: Chris Watts ∆
-layout_spectrum: 0.375
 typography_spectrum: 0.734234
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#C8C8C8'
@@ -17,11 +12,20 @@ color:
   lightness: 1
   saturation: 0.769144
   rhythmicContrast: 0.263513
-purpose: []
-title: ''
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.375
+analytics: {}
 author:
   name: Chris Watts
   url: thecreationist.us
   email: thecreationist.llc@gmail.com
-content_rating:
-  adult: false
+name: Chris Watts ∆
+cta: {}
+navigation:
+  - name: Evolution
+    id: d902fab4-479c-4d3b-a2ab-582236ed81b5
+    type: content
+title: ''
+purpose: []
