@@ -1,5 +1,11 @@
+name: Chris Watts ∆
 layout_spectrum: 0.38089562533423305
 typography_spectrum: 0.734234
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#C8C8C8'
@@ -11,16 +17,14 @@ color:
   lightness: 1
   saturation: 0.769144
   rhythmicContrast: 0.263513
-coverPrefs:
-  filter: false
-name: Chris Watts ∆
-favicon: null
+purpose: []
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
 content_rating:
   adult: false
-author:
-  name: Chris Watts
-  url: thecreationist.us
-  email: thecreationist.llc@gmail.com
 navigation:
   - name: Evolution
     id: d902fab4-479c-4d3b-a2ab-582236ed81b5
@@ -34,17 +38,3 @@ navigation:
   - name: Stay In Touch
     id: 17c8c3be-b131-4980-801a-f6e67738e9d3
     type: content
-title: ''
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: ''
-  appId: ''
-purpose: []
