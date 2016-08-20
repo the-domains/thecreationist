@@ -4,19 +4,19 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-04T07:54:36.065Z'
-dateModified: '2016-05-04T07:54:33.123Z'
+description: We're all created to create.
+datePublished: '2016-08-20T06:01:59.859Z'
+dateModified: '2016-08-20T06:01:59.411Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-philosophy.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
 starred: false
 url: philosophy/index.html
 _type: WebPage
