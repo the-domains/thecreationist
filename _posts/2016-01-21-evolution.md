@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T04:16:50.904Z'
-dateModified: '2016-03-25T04:16:04.661Z'
-title: Evolution
+datePublished: '2016-08-20T06:01:25.191Z'
+dateModified: '2016-08-20T06:01:24.868Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-21-evolution.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: evolution/index.html
 _type: WebPage
 
