@@ -1,17 +1,18 @@
 ---
+datePublished: '2016-08-20T06:09:58.583Z'
+sourcePath: _posts/2016-03-23-stay-in-touch.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Screen test
-datePublished: '2016-08-20T06:02:52.870Z'
-dateModified: '2016-08-20T06:02:52.296Z'
+related: []
 author:
   - avatar: {}
     name: ''
     url: ''
-related: []
+via: {}
+dateModified: '2016-08-20T06:09:58.182Z'
+title: Stay in Touch
 app_links:
   - url: >-
       vnd.youtube://www.youtube.com/watch?v=uJjC08DYkBQ&list=PL8CBlCahuS1_RjqJLw3opqk8iCYgCa7XV&index=3&feature=applinks
@@ -57,31 +58,29 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: thecreationist.llc@gmail.com
-sourcePath: _posts/2016-03-23-stay-in-touch.md
-via: {}
-authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'http://youtube.com'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: Screen test
+inLanguage: null
+inNav: true
 starred: false
 url: stay-in-touch/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
-## thecreationist.llc@gmail.com
+## Stay in Touch
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FuJjC08DYkBQ&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuJjC08DYkBQ%26list%3DPL8CBlCahuS1_RjqJLw3opqk8iCYgCa7XV%26index%3D3&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FuJjC08DYkBQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
 ## [Instagram][0]
 
 ## [Facebook][1]
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FuJjC08DYkBQ&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuJjC08DYkBQ%26list%3DPL8CBlCahuS1_RjqJLw3opqk8iCYgCa7XV%26index%3D3&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FuJjC08DYkBQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-  
-
+Thecreationist.llc@gmail.com
 
 [0]: https://www.instagram.com/the.creationist/
 [1]: https://www.facebook.com/c.watts24
