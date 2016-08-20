@@ -27,5 +27,8 @@ navigation:
   - name: Evolution
     id: d902fab4-479c-4d3b-a2ab-582236ed81b5
     type: content
+  - name: Philosophy
+    id: 0e9082bc-30f6-44f2-949b-8d307f00f045
+    type: content
 title: ''
 purpose: []
