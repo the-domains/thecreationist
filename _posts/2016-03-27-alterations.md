@@ -5,18 +5,18 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T07:54:51.205Z'
-dateModified: '2016-05-04T07:54:50.713Z'
+datePublished: '2016-08-20T06:02:21.916Z'
+dateModified: '2016-08-20T06:02:21.367Z'
 title: Alterations
 author: []
 sourcePath: _posts/2016-03-27-alterations.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
 starred: false
 url: alterations/index.html
 _type: WebPage
